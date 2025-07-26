@@ -1,6 +1,7 @@
-# IT Support Request Classifier
+# IT-Resource
+An AI-Powered Automation for IT Support Ticketing
 
-An AI-powered IT support request classification system that automatically categorizes and routes IT support tickets.
+An AI-powered IT support request classification system that automatically categorizes and routes IT support tickets using advanced language models.
 
 ## Features
 
